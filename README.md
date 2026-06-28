@@ -1,8 +1,7 @@
 # Hey there, I'm Arad! 👋
-### 🚀 Linux Lover | 💻 Code Enthusiast | 🌟 Problem Solver
-<div align="center">
-  <img src="https://deskrypt.com/sp.gif" width="230" alt="SpongeBob and Patrick Waving">
-</div>
+### 🚀 Linux Lover | 💻 Code Enthusiast | 🛡️ Cyber Security Fanatic | 🌟 Problem Solver
+<img width="480" height="360" alt="68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f336f67774647454872567875734462446a4f2f67697068792e676966 (1)" src="https://github.com/user-attachments/assets/e58a62e6-9e1c-43c8-a4e3-c13d9d26d98c" />
+
 ---
 
 ### 👤 About Me
